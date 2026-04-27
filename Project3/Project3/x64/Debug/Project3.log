@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\універ\2 куркурс\grafik\Project3\Project3\MyForm.h(915,28): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project3\Project3\MyForm.h(948,20): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> D:\універ\2 куркурс\grafik\Project3\x64\Debug\Project3.exe
