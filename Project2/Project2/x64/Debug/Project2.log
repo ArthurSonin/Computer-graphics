@@ -1,0 +1,33 @@
+﻿  MyForm.cpp
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(809,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(810,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(886,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(887,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(913,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(914,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(924,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(925,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(989,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project2\Project2\MyForm.h(990,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> D:\універ\2 куркурс\grafik\Project2\x64\Debug\Project2.exe
