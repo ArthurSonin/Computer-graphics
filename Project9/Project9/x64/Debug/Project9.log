@@ -1,0 +1,30 @@
+﻿  MyForm.cpp
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(448,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(448,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(448,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(457,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(457,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(460,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(461,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(462,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\універ\2 куркурс\grafik\Project9\Project9\MyForm.h(462,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project9.vcxproj -> D:\універ\2 куркурс\grafik\Project9\x64\Debug\Project9.exe
